@@ -30,7 +30,6 @@ This Python project allows you to check the strength of passwords and generate c
 python password_tool.py --password yourPassword123 --name "Ramya" --dob "2000" --pet "Tommy"
 # PasswordAnalyzer
 Password Strength Analyzer with Custom Wordlist Generator# 🔐 Password Strength Analyzer with Custom Wordlist Generator
-
 A simple Python-based tool to:
 - Analyze password strength using `zxcvbn`
 - Generate personalized wordlists from user inputs (name, pet, etc.)
